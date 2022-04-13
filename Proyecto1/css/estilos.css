@@ -1,5 +1,21 @@
 body{
     color: deeppink;
     text-align: center;
-    font-family: cursive;
+    font-family: "Arial";
+}
+
+#container{
+    border: 1px solid black;
+}
+
+#cabecera{
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: left;
+    padding: 5px;
+}
+
+#titulo_cabecera{
+    font-size: 30px;
 }
